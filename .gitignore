@@ -48,6 +48,6 @@ contract-templates/
 decision-journal/
 examples/
 getting-started/
-hooks/
+/hooks/
 reference/
 scripts/
